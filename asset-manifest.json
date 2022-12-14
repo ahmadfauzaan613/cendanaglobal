@@ -1,30 +1,38 @@
 {
   "files": {
-    "main.css": "/static/css/main.7ebdca20.css",
-    "main.js": "/static/js/main.116372b3.js",
+    "main.css": "/static/css/main.759dbe58.css",
+    "main.js": "/static/js/main.3fea45a0.js",
     "static/js/787.58b66a5c.chunk.js": "/static/js/787.58b66a5c.chunk.js",
     "static/media/Hero.png": "/static/media/Hero.fa88ce179d6a25512314.png",
+    "static/media/pexels-photo-7248417.png": "/static/media/pexels-photo-7248417.2212048db4f8b0f7259f.png",
+    "static/media/7796259596-klasfikasidanmorfologitanamankelapa.png": "/static/media/7796259596-klasfikasidanmorfologitanamankelapa.f856cfa957aae9d65a3a.png",
+    "static/media/coconut-milk-bg.png": "/static/media/coconut-milk-bg.5d29632aae3f36a00d01.png",
     "static/media/pexels-photo-7676720.jpeg": "/static/media/pexels-photo-7676720.16f82e81e737f2c08920.jpeg",
     "static/media/Minyak-Kelapa-Murni-1.png": "/static/media/Minyak-Kelapa-Murni-1.6085835ee541d06a0e00.png",
     "static/media/Coconut-The_Wonder_Fruit-1920x1280-940x627-1.jpeg": "/static/media/Coconut-The_Wonder_Fruit-1920x1280-940x627-1.f8e699e6a14b3e105f02.jpeg",
+    "static/media/h3-team-3.jpeg": "/static/media/h3-team-3.56119b457b40cdca783a.jpeg",
     "static/media/img.jpeg": "/static/media/img.aaba969f34926e51df9d.jpeg",
+    "static/media/img-coconut-1.png": "/static/media/img-coconut-1.c49e21f299bc0ac54087.png",
+    "static/media/Team-img3.jpeg": "/static/media/Team-img3.95b365b3b087f2b2aa4b.jpeg",
+    "static/media/isaac-n-c-hL9pRezOKwc-unsplash.png": "/static/media/isaac-n-c-hL9pRezOKwc-unsplash.773b24e81a9322bbafd8.png",
     "static/media/h3-team-1.jpeg": "/static/media/h3-team-1.aa4c338d92bc8044d1fd.jpeg",
     "static/media/photo-1580984969064-9a264d75832c.jpg": "/static/media/photo-1580984969064-9a264d75832c.7e33f43505bd1ffc584e.jpg",
     "static/media/278700837.jpeg": "/static/media/278700837.58f1f05d91560f329e3e.jpeg",
     "static/media/Logo.png": "/static/media/Logo.a9729bf21dbd096e5f57.png",
     "static/media/tunas-kelapajpg-20220408070958.jpeg": "/static/media/tunas-kelapajpg-20220408070958.a543a9b00b40e8d3b2a2.jpeg",
     "static/media/instagram.png": "/static/media/instagram.8d8fe8dab89aa33d914b.png",
+    "static/media/whatsapp.png": "/static/media/whatsapp.1dd8ca2765f1f177ab22.png",
     "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
-    "main.7ebdca20.css.map": "/static/css/main.7ebdca20.css.map",
-    "main.116372b3.js.map": "/static/js/main.116372b3.js.map",
+    "main.759dbe58.css.map": "/static/css/main.759dbe58.css.map",
+    "main.3fea45a0.js.map": "/static/js/main.3fea45a0.js.map",
     "787.58b66a5c.chunk.js.map": "/static/js/787.58b66a5c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7ebdca20.css",
-    "static/js/main.116372b3.js"
+    "static/css/main.759dbe58.css",
+    "static/js/main.3fea45a0.js"
   ]
 }

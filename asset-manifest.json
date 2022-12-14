@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.20627e7b.css",
+    "main.js": "/static/js/main.ba3ac40a.js",
+    "static/js/787.58b66a5c.chunk.js": "/static/js/787.58b66a5c.chunk.js",
+    "static/media/Hero.png": "/static/media/Hero.fa88ce179d6a25512314.png",
+    "static/media/pexels-photo-7676720.jpeg": "/static/media/pexels-photo-7676720.16f82e81e737f2c08920.jpeg",
+    "static/media/Minyak-Kelapa-Murni-1.png": "/static/media/Minyak-Kelapa-Murni-1.6085835ee541d06a0e00.png",
+    "static/media/Coconut-The_Wonder_Fruit-1920x1280-940x627-1.jpeg": "/static/media/Coconut-The_Wonder_Fruit-1920x1280-940x627-1.f8e699e6a14b3e105f02.jpeg",
+    "static/media/img.jpeg": "/static/media/img.aaba969f34926e51df9d.jpeg",
+    "static/media/h3-team-1.jpeg": "/static/media/h3-team-1.aa4c338d92bc8044d1fd.jpeg",
+    "static/media/photo-1580984969064-9a264d75832c.jpg": "/static/media/photo-1580984969064-9a264d75832c.7e33f43505bd1ffc584e.jpg",
+    "static/media/278700837.jpeg": "/static/media/278700837.58f1f05d91560f329e3e.jpeg",
+    "static/media/tunas-kelapajpg-20220408070958.jpeg": "/static/media/tunas-kelapajpg-20220408070958.a543a9b00b40e8d3b2a2.jpeg",
+    "static/media/Screen-Shot-2022-01-15-at-15.15.08.png": "/static/media/Screen-Shot-2022-01-15-at-15.15.08.086523e013f067c446fb.png",
+    "static/media/instagram.png": "/static/media/instagram.8d8fe8dab89aa33d914b.png",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.20627e7b.css.map": "/static/css/main.20627e7b.css.map",
+    "main.ba3ac40a.js.map": "/static/js/main.ba3ac40a.js.map",
+    "787.58b66a5c.chunk.js.map": "/static/js/787.58b66a5c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20627e7b.css",
+    "static/js/main.ba3ac40a.js"
+  ]
+}
